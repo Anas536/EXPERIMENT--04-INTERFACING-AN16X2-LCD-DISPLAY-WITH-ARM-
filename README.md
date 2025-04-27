@@ -189,7 +189,3 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
 
 
- 
-## Result :
-Interfacing a lcd display with ARM microcontroller are simulated in proteus and the results are verified.
-
